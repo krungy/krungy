@@ -19,7 +19,7 @@
 <h3 align="center"> 🧑‍💻 Me 🧑‍💻 </h3>
 <p align="center">
   <a href="https://velog.io/@krungy"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@krungy"/></a>&nbsp
-  <a href="https://lake-pasta-a35.notion.site/About-Krungy-45710d3e2b9542f4bb21a517f425923e"><img src="https://img.shields.io/badge/AboutMe-181717?style=flat-square&logo=Notion&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
+  <a href="https://lake-pasta-a35.notion.site/FE-775eaa998a7c4c41a6f15bd9554275b7"><img src="https://img.shields.io/badge/AboutMe-181717?style=flat-square&logo=Notion&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
   <a href="mailto:furler711@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=furler711@gmail.com"/></a>
 </p>
 <br>
