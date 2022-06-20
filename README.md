@@ -20,7 +20,7 @@
 
 <h3 align="center"> 🧑‍💻 Me 🧑‍💻 </h3>
 <p align="center">
-  <a href="https://velog.io/@krungy"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@krungy"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/isoj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>&nbsp;
   <a href="https://lake-pasta-a35.notion.site/FE-775eaa998a7c4c41a6f15bd9554275b7"><img src="https://img.shields.io/badge/AboutMe-181717?style=flat-square&logo=Notion&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
   <a href="mailto:furler711@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=furler711@gmail.com"/></a>
 </p>
@@ -45,7 +45,7 @@
 - Leadership, Mentoring, Writing, Presentation
 
 <div align=center>
-
+  <a href="https://velog.io/@krungy"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@krungy"/></a>&nbsp
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool) 
