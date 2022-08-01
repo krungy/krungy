@@ -23,6 +23,7 @@
   <a href="https://www.linkedin.com/in/isoj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>&nbsp;
   <a href="https://lake-pasta-a35.notion.site/FE-775eaa998a7c4c41a6f15bd9554275b7"><img src="https://img.shields.io/badge/AboutMe-181717?style=flat-square&logo=Notion&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
   <a href="mailto:furler711@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=furler711@gmail.com"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrungy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 <br>
 
@@ -34,7 +35,6 @@
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5brc0la002509ml3kc8osaf/stats?cursusId=21&coalitionId=85" alt="sojilee's 42 stats" /></a>
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5brc0la002509ml3kc8osaf/stats?cursusId=9&coalitionId=piscine" alt="sojilee's 42 stats" /></a>
 </div>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrungy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrungy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  -->
 
